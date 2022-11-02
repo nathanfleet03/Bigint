@@ -1,2 +1,5 @@
 # Bigint
-Bigint project code from CS2 at Kent State University
+C++ Bigint project code from CS2  
+
+Nathan Fleet  
+Kent State University  
